@@ -27,13 +27,13 @@
  position: absolute;
 }
 .outerbox {
- background-image: linear-gradient(180deg,#151515,#fff);
+ background-image: linear-gradient(#000);
  border: 1px solid #fff;
  margin-bottom: 3px;
  padding: clamp(0px,.25vw,2px)
 }
 .innerbox {
- background-image: linear-gradient(180deg,#151515,#fff);
+ background-image: linear-gradient(#000);
  color: #fff;
  font-size: clamp(0px,2.5vw,25px);
  padding: 0 clamp(0px,1vw,11px) clamp(0px,1vw,15px);
