@@ -1,8 +1,7 @@
 @font-face {
     font-family: 			'F000webfont';
     src: 					url('/web/20250501125318im_/https://sira0xff.netlify.app/000webfont.woff2') format('woff2'),
-							url('/web/20250501125318im_/https://sira0xff.netlify.app/000webfont.woff') format('woff'),
-							url('/web/20250501125318im_/https://sira0xff.netlify.app/000webfont.ttf') format('truetype');
+							
     font-weight: 			normal;
     font-style: 			normal;
 }
@@ -11,8 +10,7 @@
 @font-face {
     font-family: 			'aaaiight';
     src: 					url('/web/20250501125318im_/https://sira0xff.netlify.app/aaaiight.woff2') format('woff2'),
-							url('/web/20250501125318im_/https://sira0xff.netlify.app/aaaiight.woff') format('woff'),
-							url('/web/20250501125318im_/https://sira0xff.netlify.app/aaaiight.ttf') format('truetype');
+							
     font-weight: 			normal;
     font-style: 			normal;
 }
