@@ -77,9 +77,9 @@
  overflow: hidden
 }
 .preview {
-    aspect-ratio: 1/1;
+    aspect-ratio: 1.5/1;
     background-color: #000;
-    border: 2px ridge #fff;
-    max-width: 150.5%;
-    width: 264px
+    border: 5px ridge #1f1b3b;
+    max-width: 100.5%;
+    width: 254px
 }
