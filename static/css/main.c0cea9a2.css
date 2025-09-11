@@ -73,7 +73,7 @@
  width: 100%
 }
 .gallery,.left {
- max-width: 100%;
+ max-width: 50%;
  overflow: hidden
 }
 .preview {
