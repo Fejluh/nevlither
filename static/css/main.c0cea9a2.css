@@ -16,9 +16,6 @@
     font-weight: 			normal;
     font-style: 			normal;
 }
-.noclick {
-  pointer-events: none
-}
  .allContent,.headerStuff {
   align-items: center;
   box-sizing: border-box;
