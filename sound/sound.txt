@@ -1,0 +1,6 @@
+# (1/3/2026)
+# URL link from File Garden --> PenguinMod's Tune Shark V3's import sound from URL () named ()
+# toggle sound () looping on, start sound ()
+# else sound () loop start () end (), ignore toggle sound () looping on.. or switch it off.
+# stop sound ()
+# I was going to use GitHub to do the URL part but Tune Shark V3 refuse to interact, so... yeah
