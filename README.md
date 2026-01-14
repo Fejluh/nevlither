@@ -2,5 +2,3 @@
 created in 8/14/2025
 
 WIP since 1/2/2026
-
-Doing more fixes and will add other elements later
