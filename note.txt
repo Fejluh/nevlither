@@ -1,2 +1,2 @@
 index.html is public, rarely change.
-index2.html is hidden copy, it frequently changes at anytime, occasionally acts pretty shitty, broken, or displeased, its sole purpose is to test stuff and then gives them to index.html once it is suitable.
+index2.html is hidden copy, it frequently changes at anytime, occasionally acts pretty shitty, broken, or displeased, its sole purpose is to test stuff then gives them to index.html once it is suitable.
