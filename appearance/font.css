@@ -10,3 +10,6 @@
   font-family: 'FFF Forward';
   src: url('/appearance/FFFFORWA.woff2') format('woff2');
     }
+p {
+  text-shadow: 2px 2px 2px #aaa;
+}
