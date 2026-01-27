@@ -2,6 +2,16 @@
 <html>
   <head>
   <style>
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+    }
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
      .box {
       display: flex;
       align-items: center;
@@ -30,8 +40,17 @@
   </style>
   </head>
   <body>
+    <div class="row">
+      <div class="column">
+        <a href="https://x.com/nevlither/status/1992310430459658387" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/15.png" alt="test" width="150" height="150" title="November 22, 2025"> </a>
+      </div>
+      <div class="column">
+    <a href="https://x.com/nevlither/status/1983340847161848136" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/14.png" alt="test" width="150" height="150" title="October 28, 2025"> </a>
+      </div>
+    </div>
+        
+    <!-- 
     <div class="box">
-    <a href="https://x.com/nevlither/status/1992310430459658387" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/15.png" alt="test" width="200" height="200" title="November 22, 2025"> </a><br>
     <a href="https://x.com/nevlither/status/1983340847161848136" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/14.png" alt="test" width="200" height="200" title="October 28, 2025"> </a><br>
     <a href="https://x.com/nevlither/status/1977628743247311307" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/13.png" alt="test" width="200" height="200"  title="October 13, 2025"> </a><br>
     <a href="https://x.com/nevlither/status/1972592648646262870" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/12.png" alt="test" width="200" height="200"  title="September 29, 2025"> </a><br>
@@ -41,6 +60,7 @@
     <a href="https://x.com/nevlither/status/1949409667387465963" style="color: black;" target="_blank"> <img class="preview" alt="" src="/preview/5.jpeg" alt="test" width="200" height="200"  title="July 27, 2025"> </a>
     <marquee style="color: #FFF;">test</marquee>
     <p style="color: #FFF;">test</p>
+    -->
     </div>
   </body>
 </html>
