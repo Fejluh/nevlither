@@ -1,3 +1,3 @@
 index.html is the one you see, it rarely changes.
 index2.html is a hidden copy, it frequently changes at anytime, occasionally acts pretty shitty, broken, or displeased, its sole purpose is to test stuff then give them to index.html once they are suitable.
-pre-html, packaged from .pmp file, 1748 blocks 200fps
+pre-html, packaged from .pmp file, 1748 blocks 200fps, showing html files is possible
